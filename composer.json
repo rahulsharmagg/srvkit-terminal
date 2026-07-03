@@ -1,0 +1,24 @@
+{
+    "name": "srvkit/terminal",
+    "description": "A secure, framework-compatible PHP Web Terminal with autocomplete, suggestions, history, and a modern responsive dark theme UI.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "terminal",
+        "web-terminal",
+        "shell",
+        "cpanel",
+        "php",
+        "laravel",
+        "codeigniter",
+        "leafphp"
+    ],
+    "autoload": {
+        "psr-4": {
+            "SrvKit\\Terminal\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}

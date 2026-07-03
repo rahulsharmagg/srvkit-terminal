@@ -1,0 +1,8 @@
+/vendor/
+composer.lock
+.env
+*.log
+.system_generated/
+.agents/
+.idea/
+.vscode/
